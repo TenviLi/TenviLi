@@ -4,7 +4,7 @@
 
 ##### 👨‍💻 Cool things i'm working on
 
-- Internship in progress: From Vue to learning React.
+- Internship in progress: From Vue to learning React, with Redux-saga, Dva, Ant-Design
 - Open source project: Release the open source library regularly and record it in Trello.
 - Live broadcast: I'm a Bilibili-Up, daily sharing Nintendo switch.
 
