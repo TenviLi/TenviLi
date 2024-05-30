@@ -28,7 +28,7 @@
 <kbd>🦑</kbd>&nbsp;&nbsp;<kbd>`企微 Splatoon3 Bot`</kbd><br>
 <kbd>🐒</kbd>&nbsp;&nbsp;<kbd>`糊出一堆油猴脚本`</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>`直播设备++, 重操 VTuber, 五个舰长后 遂弃坑`</kbd><br>
-<kbd>👋</kbd>&nbsp;&nbsp;<kbd>`终于等到 Zelda TOTK`</kbd><br>
+<kbd>💚</kbd>&nbsp;&nbsp;<kbd>`终于等到 Zelda TOTK`</kbd><br>
 <kbd>✒✏️</kbd>&nbsp;&nbsp;<kbd>`Codepen 150 Followers 里程碑达成`</kbd><br>
 <kbd>&lt;/2022&gt;</kbd><br>
 
