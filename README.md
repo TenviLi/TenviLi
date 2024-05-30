@@ -4,9 +4,9 @@
 <td>
 
 <sub>&lt;2024&gt;</sub><br>
-<kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 妙用, 绘制 精美海报 & 插绘 & Logo (自吹自擂</kbd><br>
+<kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 妙用, 绘制 精美海报 & Logo (自吹自擂</kbd><br>
 <kbd>🎮</kbd>&nbsp;&nbsp;<kbd>给某MMORPG 做Wiki网站</kbd><br>
-<kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>嵌字、插画投稿、人生第一篇小说...</kbd><br>
+<kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>嵌字、插绘投稿、人生第一篇小说...</kbd><br>
 <kbd>📺</kbd>&nbsp;&nbsp;<kbd>卖出 Apple TV 4K 2022</kbd><br>
 <kbd>🪦</kbd>&nbsp;&nbsp;<kbd>亲人离去 RIP</kbd><br>
 <kbd>🌐</kbd>&nbsp;&nbsp;<kbd>有幸为 W3C「Web进化论」幕后工作两天 荣耀之事</kbd><br>
