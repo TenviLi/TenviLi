@@ -27,7 +27,7 @@
 
 <sub>&lt;2022&gt;</sub><br>
 <kbd>😷</kbd>&nbsp;&nbsp;<kbd>疫情 团购 居家 不安全感</kbd><br>
-<kbd>🦑</kbd>&nbsp;&nbsp;<kbd>企微 Splatoon3 Bot</kbd><br>
+<kbd>🦑</kbd>&nbsp;&nbsp;<kbd>做了企业微信的 Splatoon3 Bot</kbd><br>
 <kbd>🐒</kbd>&nbsp;&nbsp;<kbd>糊出一堆油猴脚本</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>直播设备++, 重操 VTuber, 五个舰长 里程碑达成</kbd><br>
 <kbd>💚</kbd>&nbsp;&nbsp;<kbd>终于等到 Zelda TOTK</kbd><br>
