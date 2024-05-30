@@ -50,7 +50,7 @@
 <kbd>👨‍💻</kbd>&nbsp;&nbsp;<kbd>政采云 共享平台实习</kbd><br>
 <kbd>👨‍💻</kbd>&nbsp;&nbsp;<kbd>bilibili 主站基础架构组</kbd><br>
 <kbd>🐕‍🦺</kbd>&nbsp;&nbsp;<kbd>社畜浓度增加了!!!</kbd><br>
-<kbd>🥈</kbd>&nbsp;&nbsp;<kbd>Hackathon</kbd><br>
+<kbd>🥈</kbd>&nbsp;&nbsp;<kbd>拿下几个 Hackathon</kbd><br>
 <kbd>🤸🏽‍♀️</kbd>&nbsp;&nbsp;<kbd>TypeScript 体操运动员</kbd><br>
 <sup>&lt;/2020&gt;</sup>
 <hr/>
