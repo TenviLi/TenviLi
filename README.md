@@ -1,4 +1,6 @@
-<table><tr>
+<table>
+<thead><tr><th colspan="3" align="left">Timeline</th></tr></thead>
+<tbody><tr>
 <td>
 
 <sub>&lt;2024&gt;</sub><br>
@@ -57,4 +59,5 @@
 <code>...More</code><br>
 
 </td>
-</tr></table>
+</tr>
+</tbody></table>
