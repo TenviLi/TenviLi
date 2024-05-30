@@ -7,7 +7,6 @@
 <kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 妙用, 绘制 精美海报 & 设定集 (自吹自擂</kbd><br>
 <kbd>🎮</kbd>&nbsp;&nbsp;<kbd>给某MMORPG 做粉丝向Wiki网站</kbd><br>
 <kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>嵌字、插绘投稿、人生第一篇小说...</kbd><br>
-<kbd>📺</kbd>&nbsp;&nbsp;<kbd>卖出 Apple TV 4K 2022</kbd><br>
 <kbd>🪦</kbd>&nbsp;&nbsp;<kbd>亲人离去 RIP</kbd><br>
 <kbd>🌐</kbd>&nbsp;&nbsp;<kbd>有幸为 W3C「Web进化论」幕后工作两天 荣耀之事</kbd><br>
 <sup>&lt;/2024&gt;</sup>
@@ -32,6 +31,7 @@
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>直播设备++, 重操 VTuber, 五个舰长 里程碑达成</kbd><br>
 <kbd>💚</kbd>&nbsp;&nbsp;<kbd>终于等到 Zelda TOTK</kbd><br>
 <kbd>✒✏️</kbd>&nbsp;&nbsp;<kbd>Codepen 150 Followers 里程碑达成</kbd><br>
+<kbd>📺</kbd>&nbsp;&nbsp;<kbd>入手 Apple TV 4K 2022</kbd><br>
 <sup>&lt;/2022&gt;</sup>
 <hr/>
 <sub>&lt;2021&gt;</sub><br>
