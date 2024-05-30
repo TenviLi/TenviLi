@@ -49,5 +49,5 @@
 <kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>`不错的尝试: 嵌字、插画投稿、人生第一篇小说...`</kbd><br>
 <kbd>📺</kbd>&nbsp;&nbsp;<kbd>`卖出 Apple TV 4K 2022`</kbd><br>
 <kbd>🪦</kbd>&nbsp;&nbsp;<kbd>`亲人离去 RIP`</kbd><br>
-<kbd>🌲</kbd>&nbsp;&nbsp;<kbd>`有幸給 Web进化论 幕后工作两天 我的荣耀`</kbd><br>
+<kbd>🌲</kbd>&nbsp;&nbsp;<kbd>`有幸給 W3C Web进化论 幕后工作两天 我的荣耀`</kbd><br>
 <kbd>&lt;/2024&gt;</kbd><br>
