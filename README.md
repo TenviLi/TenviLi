@@ -4,7 +4,7 @@
 <td>
 
 <sub>&lt;2024&gt;</sub><br>
-<kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 妙用, 绘制 精美海报 & Logo (自吹自擂</kbd><br>
+<kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 妙用, 绘制 精美海报 & 设定集 (自吹自擂</kbd><br>
 <kbd>🎮</kbd>&nbsp;&nbsp;<kbd>给某MMORPG 做Wiki网站</kbd><br>
 <kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>嵌字、插绘投稿、人生第一篇小说...</kbd><br>
 <kbd>📺</kbd>&nbsp;&nbsp;<kbd>卖出 Apple TV 4K 2022</kbd><br>
