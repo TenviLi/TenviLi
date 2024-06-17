@@ -13,7 +13,6 @@
 <hr/>
 <sub>&lt;2023&gt;</sub><br>
 <kbd>🖼️</kbd>&nbsp;&nbsp;<kbd>三年没逛的 各种展览、开发者大会</kbd><br>
-<kbd>🧑‍🤝‍🧑</kbd>&nbsp;&nbsp;<kbd>结识 未曾谋面的 珍贵网友们</kbd><br>
 <kbd>🚂</kbd>&nbsp;&nbsp;<kbd>卖出 Steam Deck</kbd><br>
 <kbd>🌺</kbd>&nbsp;&nbsp;<kbd>Super Mario Bros. Wonder 视频投稿</kbd><br>
 <kbd>👓</kbd>&nbsp;&nbsp;<kbd>Quest3 养成系电子产品: WebXR, 启动!</kbd><br>
