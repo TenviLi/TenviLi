@@ -26,9 +26,10 @@
 <kbd>😷</kbd>&nbsp;&nbsp;<kbd>疫情居家100天</kbd><br>
 <kbd>🦑</kbd>&nbsp;&nbsp;<kbd>完成 企微 Splatoon3 Bot</kbd><br>
 <kbd>🐒</kbd>&nbsp;&nbsp;<kbd>完成 一堆油猴脚本</kbd><br>
-<kbd>🎥</kbd>&nbsp;&nbsp;<kbd>购入 直播设备, 重操 VTuber, 5个舰长 里程碑达成</kbd><br>
+<kbd>🎥</kbd>&nbsp;&nbsp;<kbd>购入 直播设备</kbd><br>
+<kbd>🎥</kbd>&nbsp;&nbsp;<kbd>重操 VTuber, 5个舰长 里程碑达成</kbd><br>
 <kbd>💚</kbd>&nbsp;&nbsp;<kbd>Zelda TOTK 玩家</kbd><br>
-<kbd>✒✏️</kbd>&nbsp;&nbsp;<kbd>Codepen 150粉 里程碑达成</kbd><br>
+<kbd>✏️</kbd>&nbsp;&nbsp;<kbd>Codepen 150粉 里程碑达成</kbd><br>
 <kbd>📺</kbd>&nbsp;&nbsp;<kbd>购入 Apple TV 4K 2022</kbd><br>
 <sup>&lt;/2022&gt;</sup>
 <hr/>
@@ -37,9 +38,9 @@
 <kbd>🙏</kbd>&nbsp;&nbsp;<kbd>琢磨 亚伯拉罕诸教</kbd><br>
 <kbd>⛏️</kbd>&nbsp;&nbsp;<kbd>MineCraft 机械动力 玩家</kbd><br>
 <kbd>🎓</kbd>&nbsp;&nbsp;<kbd>毕业</kbd><br>
-<kbd>🔄</kbd>&nbsp;&nbsp;<kbd>前端DevOps 布道师</kbd><br>
+<kbd>🔄</kbd>&nbsp;&nbsp;<kbd>前端 DevOps 布道师</kbd><br>
 <kbd>🇸🇪</kbd>&nbsp;&nbsp;<kbd>宜家粉丝</kbd><br>
-<kbd>🎮</kbd>&nbsp;&nbsp;<kbd>买回 Switch</kbd><br>
+<kbd>🎮</kbd>&nbsp;&nbsp;<kbd>买回 Nintendo Switch</kbd><br>
 <sup>&lt;/2021&gt;</sup>
 <hr/>
 <sub>&lt;2020&gt;</sub><br>
