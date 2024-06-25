@@ -42,7 +42,9 @@
 <kbd>🇸🇪</kbd>&nbsp;&nbsp;<kbd>宜家粉丝</kbd><br>
 <kbd>🎮</kbd>&nbsp;&nbsp;<kbd>买回 Nintendo Switch</kbd><br>
 <sup>&lt;/2021&gt;</sup>
-<hr/>
+
+</td><td>
+
 <sub>&lt;2020&gt;</sub><br>
 <kbd>💽</kbd>&nbsp;&nbsp;<kbd>部署 Homelab, 熟悉 K3S</kbd><br>
 <kbd>🎸</kbd>&nbsp;&nbsp;<kbd>初学 电吉他 & 乐理</kbd><br>
