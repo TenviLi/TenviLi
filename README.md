@@ -8,7 +8,7 @@
 <kbd>🎮</kbd>&nbsp;&nbsp;<kbd>完成 MMORPG 粉丝向Wiki网站</kbd><br>
 <kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>第一篇小说、插画投稿</kbd><br>
 <kbd>🪦</kbd>&nbsp;&nbsp;<kbd>亲人离去 RIP</kbd><br>
-<kbd>🌐</kbd>&nbsp;&nbsp;<kbd>W3C·Web进化论 幕后工作2Days</kbd><br>
+<kbd>🌐</kbd>&nbsp;&nbsp;<kbd>W3C·Web进化论·支援2Days</kbd><br>
 <sup>&lt;/2024&gt;</sup>
 <hr/>
 <sub>&lt;2023&gt;</sub><br>
