@@ -24,7 +24,7 @@
 <sub>&lt;2022&gt;</sub><br>
 <kbd>😷</kbd>&nbsp;&nbsp;<kbd>疫情 居家100天</kbd><br>
 <kbd>🦑</kbd>&nbsp;&nbsp;<kbd>完成 Splatoon3 Bot</kbd><br>
-<kbd>🐒</kbd>&nbsp;&nbsp;<kbd>完成 油猴脚本 若干</kbd><br>
+<kbd>🐒</kbd>&nbsp;&nbsp;<kbd>开发 UserScript</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>购入 Elgato 直播设备</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>重操 VTuber, 5个舰长 里程碑达成</kbd><br>
 <kbd>💚</kbd>&nbsp;&nbsp;<kbd>Zelda TOTK 玩家</kbd><br>
