@@ -8,6 +8,7 @@
 <kbd>🎮</kbd>&nbsp;&nbsp;<kbd>MMORPG Wiki网站</kbd><br>
 <kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>第1篇小说、插画投稿</kbd><br>
 <kbd>🌐</kbd>&nbsp;&nbsp;<kbd>W3C·Web进化论</kbd><br>
+<kbd>🎀</kbd>&nbsp;&nbsp;<kbd>入坑 Kigurumi</kbd><br>
 <sup>&lt;/2024&gt;</sup>
 <hr/>
 <sub>&lt;2023&gt;</sub><br>
