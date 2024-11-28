@@ -5,12 +5,12 @@
 
 <sub>&lt;2024&gt;</sub><br>
 <kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 本当上手</kbd><br>
-<kbd>🎮</kbd>&nbsp;&nbsp;<kbd>开发某MMORPG Wiki网站</kbd><br>
+<kbd>🎮</kbd>&nbsp;&nbsp;<kbd>开发 某MMORPG Wiki网站</kbd><br>
 <kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>第1篇小说、插画投稿</kbd><br>
 <kbd>🌐</kbd>&nbsp;&nbsp;<kbd>W3C·Web进化论</kbd><br>
 <kbd>📶</kbd>&nbsp;&nbsp;<kbd>玩软路由玩的</kbd><br>
-<kbd>🎀</kbd>&nbsp;&nbsp;<kbd>入坑 Kigurumi</kbd><br>
 <kbd>💻</kbd>&nbsp;&nbsp;<kbd>购入 Mac Mini M4 Pro</kbd><br>
+<kbd>🎀</kbd>&nbsp;&nbsp;<kbd>入坑 Kigurumi</kbd><br>
 <sup>&lt;/2024&gt;</sup>
 <hr/>
 <sub>&lt;2023&gt;</sub><br>
@@ -51,9 +51,9 @@
 <kbd>💽</kbd>&nbsp;&nbsp;<kbd>部署 Homelab, 熟悉 K3S</kbd><br>
 <kbd>🎸</kbd>&nbsp;&nbsp;<kbd>初学 电吉他 & 乐理</kbd><br>
 <kbd>👨‍💻</kbd>&nbsp;&nbsp;<kbd>实习 政采云·共享平台</kbd><br>
-<kbd>👨‍💻</kbd>&nbsp;&nbsp;<kbd>加入 B站·主站前端基础架构组</kbd><br>
-<kbd>🥈</kbd>&nbsp;&nbsp;<kbd>夺奖 Hackathon</kbd><br>
-<kbd>🤸🏽‍♀️</kbd>&nbsp;&nbsp;<kbd>成为 TypeScript 菜鸡体操运动员</kbd><br>
+<kbd>👨‍💻</kbd>&nbsp;&nbsp;<kbd>加入 B站·主站前端·基础架构组</kbd><br>
+<kbd>🥈</kbd>&nbsp;&nbsp;<kbd>Hackathon 夺奖</kbd><br>
+<kbd>🤸🏽‍♀️</kbd>&nbsp;&nbsp;<kbd>TypeScript 菜鸡体操运动员</kbd><br>
 <sup>&lt;/2020&gt;</sup>
 <hr/>
 <sub>&lt;2019&gt;</sub><br>
