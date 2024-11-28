@@ -18,7 +18,7 @@
 <kbd>🚂</kbd>&nbsp;&nbsp;<kbd>购入 Steam Deck</kbd><br>
 <kbd>🌺</kbd>&nbsp;&nbsp;<kbd>Super Mario Bros. Wonder 视频投稿</kbd><br>
 <kbd>👓</kbd>&nbsp;&nbsp;<kbd>Quest3 & WebXR</kbd><br>
-<kbd>🎹</kbd>&nbsp;&nbsp;<kbd>Yamaha Modx7+ & P525 双排, 合成器初学</kbd><br>
+<kbd>🎹</kbd>&nbsp;&nbsp;<kbd>Yamaha Modx7+ & P525 双排</kbd><br>
 <kbd>📝</kbd>&nbsp;&nbsp;<kbd>投稿·写刊·技术分享</kbd><br>
 <sup>&lt;/2023&gt;</sup><br>
 
