@@ -4,17 +4,17 @@
 <td>
 
 <sub>&lt;2024&gt;</sub><br>
-<kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 跨界玩家</kbd><br>
-<kbd>🎮</kbd>&nbsp;&nbsp;<kbd>完成 MMORPG 粉丝向Wiki网站</kbd><br>
-<kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>第一篇小说、插画投稿</kbd><br>
-<kbd>🌐</kbd>&nbsp;&nbsp;<kbd>W3C·Web进化论·支援2Days</kbd><br>
+<kbd>🎨</kbd>&nbsp;&nbsp;<kbd>Figma 本当上手</kbd><br>
+<kbd>🎮</kbd>&nbsp;&nbsp;<kbd>MMORPG Wiki网站</kbd><br>
+<kbd>🗯️</kbd>&nbsp;&nbsp;<kbd>第1篇小说、插画投稿</kbd><br>
+<kbd>🌐</kbd>&nbsp;&nbsp;<kbd>W3C·Web进化论</kbd><br>
 <sup>&lt;/2024&gt;</sup>
 <hr/>
 <sub>&lt;2023&gt;</sub><br>
-<kbd>🖼️</kbd>&nbsp;&nbsp;<kbd>漫展·展览·开发者大会</kbd><br>
+<kbd>🖼️</kbd>&nbsp;&nbsp;<kbd>逛展 & 开发者大会</kbd><br>
 <kbd>🚂</kbd>&nbsp;&nbsp;<kbd>购入 Steam Deck</kbd><br>
 <kbd>🌺</kbd>&nbsp;&nbsp;<kbd>Super Mario Bros. Wonder 视频投稿</kbd><br>
-<kbd>👓</kbd>&nbsp;&nbsp;<kbd>Quest3 养成系电子产品: WebXR, 启动!</kbd><br>
+<kbd>👓</kbd>&nbsp;&nbsp;<kbd>Quest3 & WebXR</kbd><br>
 <kbd>🎹</kbd>&nbsp;&nbsp;<kbd>Yamaha Modx7+ & P525 双排, 合成器初学</kbd><br>
 <kbd>📝</kbd>&nbsp;&nbsp;<kbd>投稿·写刊·技术分享</kbd><br>
 <sup>&lt;/2023&gt;</sup><br>
@@ -23,7 +23,7 @@
 
 <sub>&lt;2022&gt;</sub><br>
 <kbd>😷</kbd>&nbsp;&nbsp;<kbd>疫情 居家100天</kbd><br>
-<kbd>🦑</kbd>&nbsp;&nbsp;<kbd>完成 企微 Splatoon3 Bot</kbd><br>
+<kbd>🦑</kbd>&nbsp;&nbsp;<kbd>完成 Splatoon3 Bot</kbd><br>
 <kbd>🐒</kbd>&nbsp;&nbsp;<kbd>完成 油猴脚本 若干</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>购入 直播设备</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>重操 VTuber, 5个舰长 里程碑达成</kbd><br>
