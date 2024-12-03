@@ -29,7 +29,7 @@
 <kbd>🦑</kbd>&nbsp;&nbsp;<kbd>完成 Splatoon3 Bot</kbd><br>
 <kbd>🐒</kbd>&nbsp;&nbsp;<kbd>开发 UserScript</kbd><br>
 <kbd>🎥</kbd>&nbsp;&nbsp;<kbd>购入 Elgato 直播设备</kbd><br>
-<kbd>🎥</kbd>&nbsp;&nbsp;<kbd>重操 VTuber, 5个舰长 里程碑达成</kbd><br>
+<kbd>🎥</kbd>&nbsp;&nbsp;<kbd>5个舰长 里程碑达成</kbd><br>
 <kbd>💚</kbd>&nbsp;&nbsp;<kbd>Zelda TOTK 玩家</kbd><br>
 <kbd>✏️</kbd>&nbsp;&nbsp;<kbd>Codepen 150粉 里程碑达成</kbd><br>
 <kbd>📺</kbd>&nbsp;&nbsp;<kbd>购入 Apple TV 4K 2022</kbd><br>
